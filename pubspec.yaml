@@ -1,0 +1,133 @@
+name: my_neighbourhood_online
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.0
+  material_floating_search_bar: ^0.1.7
+  google_fonts: ^1.1.1
+  responsive_flutter: ^0.0.4
+  pin_code_fields: ^6.0.1
+  flare_flutter: ^2.0.6
+  list_tile_switch: ^0.0.2
+  flutter_statusbarcolor:
+  flutter_rating_bar:
+  image_picker: ^0.6.7+17
+  permission_handler: ^5.0.1+1
+  http:
+  fluttertoast: ^7.1.6
+  logger: ^0.9.4
+  dio: ^3.0.10
+  geolocator: ^6.1.13
+  geocoding: ^1.0.5
+  provider: ^4.3.2+3
+  shared_preferences: ^0.5.12+4
+  images_picker:
+  webview_flutter: ^1.0.7
+  intl: ^0.16.1
+  url_launcher: ^5.4.1
+  flutter_carousel_slider: ^1.0.2
+  cached_network_image: ^2.5.0
+  geocoder: ^0.2.1
+  location: ^3.2.1
+  fancy_shimmer_image: ^1.2.0
+  flutter_markdown: ^0.5.2
+  multi_image_picker:
+  firebase_auth: any
+  google_sign_in: any
+  firebase_messaging: any
+  flutter_facebook_auth: any
+  flutter_local_notifications: ^3.0.3
+  path_provider: any
+  flutter_neumorphic: ^1.0.0+3
+  google_maps_flutter: ^1.2.0
+  rxdart: ^0.25.0
+  share: ^0.6.5+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/images/
+
+  fonts:
+    - family: Baskerville
+      fonts:
+        - asset: assets/fonts/baskerville/BASKE1.ttf
+        - asset: assets/fonts/baskerville/BASKE10.ttf
+        - asset: assets/fonts/baskerville/baskervi.ttf
+        - asset: assets/fonts/baskerville/baskerville bold bt.ttf
+        - asset: assets/fonts/baskerville/baskerville bold font.ttf
+        - asset: assets/fonts/baskerville/BaskervilleBoldItalicBT.ttf
+        - asset: assets/fonts/baskerville/BaskervilleBT.ttf
+        - asset: assets/fonts/baskerville/BaskervilleItalicBT.ttf
+        - asset: assets/fonts/baskerville/BASKRV_L.ttf
+        - asset: assets/fonts/baskerville/baskvl.ttf
+
+
+    - family: Baske9
+      fonts:
+        - asset: assets/fonts/baskerville/BASKE9.ttf
+
+    - family: Futura Light
+      fonts:
+        - asset: assets/fonts/futura/futura light bt.ttf
+
+    - family: Futura
+      fonts:
+        - asset: assets/fonts/futura/futur.ttf
+        - asset: assets/fonts/futura/Futura Bold font.ttf
+        - asset: assets/fonts/futura/Futura Bold Italic font.ttf
+        - asset: assets/fonts/futura/Futura Book font.ttf
+        - asset: assets/fonts/futura/Futura Book Italic font.ttf
+        - asset: assets/fonts/futura/Futura Extra Black font.ttf
+        - asset: assets/fonts/futura/Futura Heavy font.ttf
+        - asset: assets/fonts/futura/Futura Heavy Italic font.ttf
+        - asset: assets/fonts/futura/Futura Light font.ttf
+        - asset: assets/fonts/futura/Futura Light Italic font.ttf
+        - asset: assets/fonts/futura/futura medium bt.ttf
+        - asset: assets/fonts/futura/futura medium condensed bt.ttf
+        - asset: assets/fonts/futura/Futura Medium Italic font.ttf
+        - asset: assets/fonts/futura/Futura XBlk BT.ttf
+        - asset: assets/fonts/futura/tt0205m_.ttf
+        - asset: assets/fonts/futura/unicode.futurab.ttf
+        - asset: assets/fonts/futura/unicode.futurabb.ttf
+

@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "598447844333",
+    "project_id": "my-neighbourhood-online",
+    "storage_bucket": "my-neighbourhood-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598447844333:android:5a3deddbe6d968c88955e4",
+        "android_client_info": {
+          "package_name": "com.ortclient.my_neighborhood_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598447844333-8mu5q9i29aol2ltoldq4gen9hcp5jt2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighborhood_online",
+            "certificate_hash": "7ab1faa4928a68b2f8bde86158018158cf56f768"
+          }
+        },
+        {
+          "client_id": "598447844333-jf1tdnfk4el00j0nh6mctdekcvla546e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighborhood_online",
+            "certificate_hash": "bf2773aa74ac5a4813ab3b132aa0b180a2164d15"
+          }
+        },
+        {
+          "client_id": "598447844333-u36856qm3n88gb1pnugs8vj5gitk769v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighborhood_online",
+            "certificate_hash": "43460414223091a516b7cfa1f218e15033b71671"
+          }
+        },
+        {
+          "client_id": "598447844333-hcvnibt7tddne85fu3oj2lnussg96hfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7zNilSEB55L1XdsudtVc1PY3Ef5I9Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598447844333-5971jho5lmslc392touee8g59mh6teq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598447844333-kmgnv21kijlgfgnfao7v2mfg5ds1gdbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ortclient.myNeighbourhoodOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598447844333:android:b66b3d4d28ed02d58955e4",
+        "android_client_info": {
+          "package_name": "com.ortclient.my_neighbourhood_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598447844333-82qacv3qofu6otcgb3h9r1rr1060ae8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighbourhood_online",
+            "certificate_hash": "81354cec05b232c3a5b3bf14b09ee1378a83e3f3"
+          }
+        },
+        {
+          "client_id": "598447844333-98qi7clfmlo462plugo4nhanjtufh88u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighbourhood_online",
+            "certificate_hash": "7ab1faa4928a68b2f8bde86158018158cf56f768"
+          }
+        },
+        {
+          "client_id": "598447844333-psejk4g91p4j71kbl41cg2bnn30rk958.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ortclient.my_neighbourhood_online",
+            "certificate_hash": "43460414223091a516b7cfa1f218e15033b71671"
+          }
+        },
+        {
+          "client_id": "598447844333-hcvnibt7tddne85fu3oj2lnussg96hfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG7zNilSEB55L1XdsudtVc1PY3Ef5I9Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598447844333-5971jho5lmslc392touee8g59mh6teq7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598447844333-kmgnv21kijlgfgnfao7v2mfg5ds1gdbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ortclient.myNeighbourhoodOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
